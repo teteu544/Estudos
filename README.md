@@ -1,2 +1,2 @@
 # Estudos
-Meus estudos sobre Py
+Aprendizados sobre a linguagem Python.
