@@ -43,5 +43,3 @@ passaro.locomove()
 #Um elefante anda.
 #Um pássaro voa.
 # Note que, ao usar herança da forma mostrada acima, podemos implementar uma interface específica (o método locomove, por exemplo) usando objetos de classes distintas, ou seja, estamos implementando polimorfismo.
-
-#A seguir, mostraremos como implementar polimorfismo usando sobrecarga de operadores.
